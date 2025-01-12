@@ -14,7 +14,6 @@ A full-stack web application that extracts job details from career pages and gen
 - [Project Structure](#project-structure)
   - [Backend](#backend)
   - [Frontend](#frontend)
-- [License](#license)
 
 ## Introduction
 
