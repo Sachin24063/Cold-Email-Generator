@@ -91,16 +91,17 @@ The **Job Email Generator** automates the process of generating cold emails for 
 ## Project Structure
 
 ### Backend
-
+```
 backend/
 ├── main.py          # FASTAPI integration
 ├── chains.py        # LLM interaction for job extraction and email generation
 ├── portfolio.py     # Manages portfolio data
 ├── utils.py         # Utility functions like clean_text
 ├── requirements.txt # Python dependencies
+```
 
 ### Backend
-
+```
 frontend/
 ├── public/           # Public assets
 ├── src/
@@ -111,6 +112,4 @@ frontend/
 │   ├── index.js              # Entry point
 │   └── styles.css            # Custom styles
 ├── package.json              # Frontend dependencies
-
-
-
+```
